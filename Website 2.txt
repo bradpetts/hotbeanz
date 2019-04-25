@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> James Brown </title>
+</head>
+<body>
+<hr>
+<h1><p>James Brown </p></h1>
+<hr>
+<p> Some things about James</p>
+<ul>
+<li> Likes Fishing
+<li> Lives in Kelvedon
+<li> Studied at New Rickstones Academy
+</ul>
+<hr>
+</body>
+</html>
